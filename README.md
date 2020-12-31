@@ -1,2 +1,2 @@
-# JThermovison
+# JThermovision
 Экспресс-термодиагностика.
